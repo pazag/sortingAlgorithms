@@ -1,6 +1,6 @@
 # Defining main function
 def main():
-    print("Hello")
+    print("Hello there")
 
 # Using the special variable
 # __name__
